@@ -8,7 +8,7 @@
 <tr><td>Процессор:<td>с поддержкой SSE4.1
 </table>
 <h2>Установка</h2>
-Скопировать файл 8bf соответствующей архитектуры (x86 или x64) в каталог Plugins. Расположение каталога указывается в параметрах CorelDraw.<p><img src=Readme/1.png>
+Скопировать файл 8bf соответствующей архитектуры (<a href=https://github.com/fersatgit/Seam-Carving/releases/download/v1.0/SC_x86.8bf>x86</a> или <a href=https://github.com/fersatgit/Seam-Carving/releases/download/v1.0/SC_x64.8bf>x64</a>) в каталог Plugins. Расположение каталога указывается в параметрах CorelDraw.<p><img src=Readme/1.png>
 <h2>Работа с фильтром</h2>
 Для того, чтобы применить фильтр нужно:
 <ol><li>Выделить растр в режиме RGB или CMYK
