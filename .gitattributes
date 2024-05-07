@@ -1,3 +1,0 @@
-*.inc linguist-language=assembly
-*.asm linguist-language=assembly
-README.md -linguist-documentation
