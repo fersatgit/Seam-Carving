@@ -264,6 +264,8 @@ macro PIPL [type,string]{
     else
       str dd string
     end if
-    db 4-(($-propHeader) and 3) dup 0
+    if ($-propHeader) and 3>0
+      db 4-(($-propHeader) and 3) dup 0
+    end if
     len2=$-str
 }
