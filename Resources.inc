@@ -29,10 +29,10 @@ data resource
 
   resdata pipldata
    PIPL PIKindProperty,kFilter,\
+     PINameProperty,'Seam Carving',\
+     PICategoryProperty,'tiny filters',\
      PIVersionProperty,40000h,\
-     PIRequiredHostProperty,kPhotoshopSignature,\
-     PIImageModesProperty,supportsCMYKColor+supportsRGBColor,\
      PIWin32X86CodeProperty,'S',\
-     PINameProperty,'Seam Carving'
+     PIImageModesProperty,supportsCMYKColor+supportsRGBColor
   endres
 end data
